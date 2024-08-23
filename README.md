@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/314221459.svg)](https://zenodo.org/badge/latestdoi/314221459)
 
 
-# Detect waste
+# Detect waste anjay
 AI4Good project for detecting waste in environment.
 [www.detectwaste.ml](www.detectwaste.ml).
 
